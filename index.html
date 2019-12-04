@@ -10,26 +10,28 @@
 </head>
 <body>
     <nav class="navbar navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">Password Generator</a>
+        <a class="navbar-brand" href="#">Random-character Password Generator 3000</a>
     </nav>
 
     <div class="container">
         <div class="row">
-            <div class="col-lg-9">
+            <div class="col-lg-9 mx-auto">
                 <div class="content">
                     <h3>Password Generator</h3>
                     <br>
-                    <input type="text" id="display">
+                    <input type="text" id="input-box">
                     <br>
                     <input type="range" min="0" max="30" name="slide" id="slide">
                     <br>
-                    <button onclick="">Generate</button>
-                    <button onclick="">Copy to Clipboard</button>
-            </div>
+                    <button id="generate-btn">Generate My Password!</button>
+                    <button id="copy-btn">Copy to Clipboard</button>
+                    <div id="slide-value"></div>
+                </div>
+
 
         </div>
     </div>
 
-    <script src="script.js"></script>
+    <script src="./script.js"></script>
 </body>
 </html>

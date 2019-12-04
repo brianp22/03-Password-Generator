@@ -1,0 +1,14 @@
+.content {
+    margin: 1rem 0rem;
+    background-color: skyblue;
+    padding: 1rem;
+    width: 100%;
+}
+
+#input-box {
+    width: 100%;
+}
+
+#slide {
+    width: 100%;
+}
