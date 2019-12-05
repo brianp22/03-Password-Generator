@@ -6,7 +6,7 @@ var slideEl = document.getElementById("slide");
 var slideValueEl = document.getElementById("slide-value");
 var inputBoxEl = document.getElementById("input-box");
 
-// randomization function
+// Random password generator function
 
 function generator() {
 
