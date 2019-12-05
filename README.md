@@ -5,4 +5,4 @@ Using the slider, you can set the desired length for you password. Then when rea
 
 Once you get a passowrd that you like, you can use the copy button to copy the password to the clipboard.
 
-![ alt test](/.generatorpicture)
+![ alt test](generatorpicture.jpg)
